@@ -1,1 +1,37 @@
-
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a good stream",
+      "id": 1
+    },
+    {
+      "title": "h",
+      "description": "i",
+      "id": 4
+    },
+    {
+      "title": "ui",
+      "description": "po",
+      "id": 6
+    },
+    {
+      "title": "abc",
+      "description": "ghi",
+      "userId": null,
+      "id": 7
+    },
+    {
+      "title": "hij",
+      "description": "po",
+      "userId": "106341922025681705349",
+      "id": 8
+    },
+    {
+      "title": "ambs",
+      "description": "changed",
+      "userId": "106341922025681705349",
+      "id": 9
+    }
+  ]
+}
